@@ -15,3 +15,6 @@
     
 ### Objective
     The objective is use a Deep Learning (Artificial Neural Network) algorithm to detect whether the transaction is fraud or not.
+    
+    
+    Dataset can be downloaded from ( https://www.kaggle.com/mlg-ulb/creditcardfraud )
